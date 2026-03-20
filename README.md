@@ -1,2 +1,3 @@
-# lite-time-tracker-fbec
-Automated issue comment bot repository
+# Lite Time Tracker Fbec
+
+Automated issue comment bot repository.
